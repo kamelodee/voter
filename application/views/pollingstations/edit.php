@@ -6,7 +6,7 @@
                 <div class="col-lg-5 col-md-8 m-auto">
                     <div class="login-page-content">
                         <div class="login-form">
-                            <h3>Edit Polling Station <? echo $station->name; ?></h3>
+                            <h3>Edit Polling Station</h3>
                             
                             <form action="<?= base_url('/pollingstation/update/'.$station->id) ?>"      method="post">
                                 <div class="input-item">

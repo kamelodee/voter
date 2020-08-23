@@ -6,7 +6,7 @@
                 <div class="col-lg-5 col-md-8 m-auto">
                     <div class="login-page-content">
                         <div class="login-form">
-                            <h3>Edit Member Type<? echo $membertype->membertypte; ?></h3>
+                            <h3>Edit Member Type</h3>
                             
                             <form action="<?= base_url('/membertype/update/'.$membertype->id) ?>"  method="post">
                                 <div class="input-item">
