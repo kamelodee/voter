@@ -10,7 +10,7 @@
                         <h2>Welcome <?= $this->session->userdata('FULLNAME') ?></h2>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                                <li class="breadcrumb-item"><a href="#">Home</a></li>
                                 <li class="breadcrumb-item active" aria-current="page">Users</li>
                             </ol>
                         </nav>
@@ -33,7 +33,7 @@
                             <i class="fa fa-globe"></i>
                         </div>
                         <h4>Register</h4>
-                        <a href="/" class="load-more">Read more <i class="fa fa-angle-right"></i></a>
+                        <a href="#" class="load-more">Read more <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
                 <!-- Single Service End -->
@@ -45,7 +45,7 @@
                             <i class="fa fa-cubes"></i>
                         </div>
                         <h4>Be a Member</h4>
-                        <a href="single-service.html" class="load-more">Read more <i class="fa fa-angle-right"></i></a>
+                        <a href="#" class="load-more">Read more <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
                 <!-- Single Service End -->
@@ -57,7 +57,7 @@
                             <i class="fa fa-area-chart"></i>
                         </div>
                         <h4>Or Volunteer</h4>
-                        <a href="single-service.html" class="load-more">Read more <i class="fa fa-angle-right"></i></a>
+                        <a href="#" class="load-more">Read more <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
                 <!-- Single Service End -->
