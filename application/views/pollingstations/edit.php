@@ -27,9 +27,9 @@
                         </div>
 
                         <div class="login-menu">
-                            <a href="/polling-stations">Go Back</a>
+                            <a href="#">Go Back</a>
                             <span>|</span>
-                            <a href="contact.html">Contact</a>
+                            <a href="#">Contact</a>
                         </div>
                     </div>
                 </div>

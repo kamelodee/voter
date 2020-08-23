@@ -121,9 +121,9 @@
                               <p>Already you have an account? <a href="<?= base_url('login')?>">Sign In</a></p>
                              </div>
                               <div class="login-menu">
-                             <a href="<?= base_url('dashboard')?>">About</a>
+                             <a href="<?= base_url('#')?>">About</a>
                             <span>|</span>
-                             <a href="<?= base_url('register')?>">Contact</a>
+                             <a href="<?= base_url('#')?>">Contact</a>
                         </div>
                     </div>
                 </div>
